@@ -1,38 +1,24 @@
-.App {
-  text-align: center;
-}
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
-}
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
-}
-
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
+/* Add this to your App.css or inline styles */
+.container {
   display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+  height: 100vh; /* Full viewport height */
 }
 
-.App-link {
-  color: #61dafb;
+.sidebar {
+  flex: 1; /* Takes up 1/3 of the width */
+  background-color: #f4f4f4; /* Light gray background */
+  padding: 10px;
+  box-shadow: 2px 0 5px rgba(0, 0, 0, 0.1); /* Optional: Add a shadow for separation */
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.map-container {
+  flex: 2; /* Takes up 2/3 of the width */
+  position: relative; /* Required for DeckGL and Map to work properly */
+}
+
+.test{
+  width: 600px;
+  height: 400px;
 }

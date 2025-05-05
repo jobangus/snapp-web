@@ -1,0 +1,3805 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.0716,
+          22.5033
+        ]
+      },
+      "properties": {
+        "date": "2024-12-09",
+        "temperature": 15.56,
+        "pH": 8.0,
+        "dissolvedOxygen": 8.89,
+        "EC": 1.11,
+        "turbidity": 0.39,
+        "orp": -1.81
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.0716,
+          22.5033
+        ]
+      },
+      "properties": {
+        "date": "2024-12-09",
+        "temperature": 22.35,
+        "pH": 8.38,
+        "dissolvedOxygen": 6.38,
+        "EC": 1.16,
+        "turbidity": 0.39,
+        "orp": -1.83
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.0716,
+          22.5033
+        ]
+      },
+      "properties": {
+        "date": "2024-12-09",
+        "temperature": 16.51,
+        "pH": 6.54,
+        "dissolvedOxygen": 5.16,
+        "EC": 1.18,
+        "turbidity": 0.42,
+        "orp": -1.84
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.0716,
+          22.5033
+        ]
+      },
+      "properties": {
+        "date": "2024-12-09",
+        "temperature": 16.71,
+        "pH": 7.32,
+        "dissolvedOxygen": 9.77,
+        "EC": 1.12,
+        "turbidity": 0.4,
+        "orp": -1.8
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.0716,
+          22.5033
+        ]
+      },
+      "properties": {
+        "date": "2024-12-09",
+        "temperature": 18.37,
+        "pH": 7.49,
+        "dissolvedOxygen": 8.62,
+        "EC": 1.19,
+        "turbidity": 0.43,
+        "orp": -1.82
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.0716,
+          22.5033
+        ]
+      },
+      "properties": {
+        "date": "2024-12-09",
+        "temperature": 16.7,
+        "pH": 7.66,
+        "dissolvedOxygen": 6.97,
+        "EC": 1.21,
+        "turbidity": 0.37,
+        "orp": -1.9
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.0716,
+          22.5033
+        ]
+      },
+      "properties": {
+        "date": "2024-12-09",
+        "temperature": 28.51,
+        "pH": 8.31,
+        "dissolvedOxygen": 7.79,
+        "EC": 1.2,
+        "turbidity": 0.39,
+        "orp": -1.88
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.0716,
+          22.5033
+        ]
+      },
+      "properties": {
+        "date": "2024-12-09",
+        "temperature": 29.7,
+        "pH": 7.65,
+        "dissolvedOxygen": 4.99,
+        "EC": 1.13,
+        "turbidity": 0.36,
+        "orp": -1.8
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.0716,
+          22.5033
+        ]
+      },
+      "properties": {
+        "date": "2024-12-09",
+        "temperature": 25.67,
+        "pH": 7.01,
+        "dissolvedOxygen": 7.05,
+        "EC": 1.11,
+        "turbidity": 0.4,
+        "orp": -1.83
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.0716,
+          22.5033
+        ]
+      },
+      "properties": {
+        "date": "2024-12-09",
+        "temperature": 16.55,
+        "pH": 8.23,
+        "dissolvedOxygen": 8.57,
+        "EC": 1.18,
+        "turbidity": 0.44,
+        "orp": -1.89
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.0716,
+          22.5033
+        ]
+      },
+      "properties": {
+        "date": "2025-01-20",
+        "temperature": 27.04,
+        "pH": 6.86,
+        "dissolvedOxygen": 5.49,
+        "EC": 1.11,
+        "turbidity": 0.37,
+        "orp": -1.83
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.0716,
+          22.5033
+        ]
+      },
+      "properties": {
+        "date": "2025-01-20",
+        "temperature": 27.24,
+        "pH": 8.18,
+        "dissolvedOxygen": 7.9,
+        "EC": 1.24,
+        "turbidity": 0.4,
+        "orp": -1.88
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.0716,
+          22.5033
+        ]
+      },
+      "properties": {
+        "date": "2025-01-20",
+        "temperature": 26.74,
+        "pH": 7.2,
+        "dissolvedOxygen": 5.4,
+        "EC": 1.19,
+        "turbidity": 0.39,
+        "orp": -1.81
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.0716,
+          22.5033
+        ]
+      },
+      "properties": {
+        "date": "2025-01-20",
+        "temperature": 24.43,
+        "pH": 6.75,
+        "dissolvedOxygen": 6.61,
+        "EC": 1.21,
+        "turbidity": 0.41,
+        "orp": -1.81
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.0716,
+          22.5033
+        ]
+      },
+      "properties": {
+        "date": "2025-01-20",
+        "temperature": 18.57,
+        "pH": 6.87,
+        "dissolvedOxygen": 6.98,
+        "EC": 1.13,
+        "turbidity": 0.35,
+        "orp": -1.88
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.0716,
+          22.5033
+        ]
+      },
+      "properties": {
+        "date": "2025-01-20",
+        "temperature": 25.02,
+        "pH": 7.64,
+        "dissolvedOxygen": 4.23,
+        "EC": 1.1,
+        "turbidity": 0.36,
+        "orp": -1.88
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.0716,
+          22.5033
+        ]
+      },
+      "properties": {
+        "date": "2025-01-20",
+        "temperature": 19.05,
+        "pH": 7.64,
+        "dissolvedOxygen": 4.03,
+        "EC": 1.14,
+        "turbidity": 0.4,
+        "orp": -1.9
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.0716,
+          22.5033
+        ]
+      },
+      "properties": {
+        "date": "2025-01-20",
+        "temperature": 27.41,
+        "pH": 8.12,
+        "dissolvedOxygen": 7.61,
+        "EC": 1.15,
+        "turbidity": 0.38,
+        "orp": -1.82
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.0716,
+          22.5033
+        ]
+      },
+      "properties": {
+        "date": "2025-01-20",
+        "temperature": 23.32,
+        "pH": 7.25,
+        "dissolvedOxygen": 4.08,
+        "EC": 1.24,
+        "turbidity": 0.38,
+        "orp": -1.83
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.0716,
+          22.5033
+        ]
+      },
+      "properties": {
+        "date": "2025-01-20",
+        "temperature": 23.08,
+        "pH": 7.17,
+        "dissolvedOxygen": 7.9,
+        "EC": 1.23,
+        "turbidity": 0.38,
+        "orp": -1.86
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.0716,
+          22.5033
+        ]
+      },
+      "properties": {
+        "date": "2025-03-03",
+        "temperature": 17.88,
+        "pH": 7.77,
+        "dissolvedOxygen": 6.47,
+        "EC": 1.16,
+        "turbidity": 0.43,
+        "orp": -1.82
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.0716,
+          22.5033
+        ]
+      },
+      "properties": {
+        "date": "2025-03-03",
+        "temperature": 18.73,
+        "pH": 7.3,
+        "dissolvedOxygen": 6.18,
+        "EC": 1.12,
+        "turbidity": 0.44,
+        "orp": -1.87
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.0716,
+          22.5033
+        ]
+      },
+      "properties": {
+        "date": "2025-03-03",
+        "temperature": 27.13,
+        "pH": 6.69,
+        "dissolvedOxygen": 8.77,
+        "EC": 1.22,
+        "turbidity": 0.4,
+        "orp": -1.88
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.0716,
+          22.5033
+        ]
+      },
+      "properties": {
+        "date": "2025-03-03",
+        "temperature": 18.8,
+        "pH": 6.71,
+        "dissolvedOxygen": 9.15,
+        "EC": 1.22,
+        "turbidity": 0.37,
+        "orp": -1.84
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.0716,
+          22.5033
+        ]
+      },
+      "properties": {
+        "date": "2025-03-03",
+        "temperature": 15.34,
+        "pH": 7.45,
+        "dissolvedOxygen": 6.81,
+        "EC": 1.12,
+        "turbidity": 0.43,
+        "orp": -1.89
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.0716,
+          22.5033
+        ]
+      },
+      "properties": {
+        "date": "2025-03-03",
+        "temperature": 21.69,
+        "pH": 7.76,
+        "dissolvedOxygen": 8.53,
+        "EC": 1.23,
+        "turbidity": 0.35,
+        "orp": -1.83
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.0716,
+          22.5033
+        ]
+      },
+      "properties": {
+        "date": "2025-03-03",
+        "temperature": 28.43,
+        "pH": 6.55,
+        "dissolvedOxygen": 7.1,
+        "EC": 1.16,
+        "turbidity": 0.44,
+        "orp": -1.83
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.0716,
+          22.5033
+        ]
+      },
+      "properties": {
+        "date": "2025-03-03",
+        "temperature": 15.12,
+        "pH": 7.18,
+        "dissolvedOxygen": 6.19,
+        "EC": 1.22,
+        "turbidity": 0.36,
+        "orp": -1.87
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.0716,
+          22.5033
+        ]
+      },
+      "properties": {
+        "date": "2025-03-03",
+        "temperature": 27.99,
+        "pH": 7.87,
+        "dissolvedOxygen": 5.77,
+        "EC": 1.12,
+        "turbidity": 0.37,
+        "orp": -1.81
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.0716,
+          22.5033
+        ]
+      },
+      "properties": {
+        "date": "2025-03-03",
+        "temperature": 21.35,
+        "pH": 8.3,
+        "dissolvedOxygen": 9.6,
+        "EC": 1.13,
+        "turbidity": 0.36,
+        "orp": -1.8
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.0716,
+          22.5033
+        ]
+      },
+      "properties": {
+        "date": "2025-04-14",
+        "temperature": 27.59,
+        "pH": 8.49,
+        "dissolvedOxygen": 4.44,
+        "EC": 1.23,
+        "turbidity": 0.41,
+        "orp": -1.87
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.0716,
+          22.5033
+        ]
+      },
+      "properties": {
+        "date": "2025-04-14",
+        "temperature": 23.26,
+        "pH": 8.47,
+        "dissolvedOxygen": 4.4,
+        "EC": 1.24,
+        "turbidity": 0.39,
+        "orp": -1.86
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.0716,
+          22.5033
+        ]
+      },
+      "properties": {
+        "date": "2025-04-14",
+        "temperature": 17.22,
+        "pH": 8.39,
+        "dissolvedOxygen": 9.14,
+        "EC": 1.12,
+        "turbidity": 0.37,
+        "orp": -1.89
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.0716,
+          22.5033
+        ]
+      },
+      "properties": {
+        "date": "2025-04-14",
+        "temperature": 27.64,
+        "pH": 8.49,
+        "dissolvedOxygen": 9.29,
+        "EC": 1.1,
+        "turbidity": 0.36,
+        "orp": -1.86
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.0716,
+          22.5033
+        ]
+      },
+      "properties": {
+        "date": "2025-04-14",
+        "temperature": 19.13,
+        "pH": 8.05,
+        "dissolvedOxygen": 8.54,
+        "EC": 1.13,
+        "turbidity": 0.36,
+        "orp": -1.81
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.0716,
+          22.5033
+        ]
+      },
+      "properties": {
+        "date": "2025-04-14",
+        "temperature": 19.07,
+        "pH": 7.2,
+        "dissolvedOxygen": 7.53,
+        "EC": 1.1,
+        "turbidity": 0.4,
+        "orp": -1.86
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.0716,
+          22.5033
+        ]
+      },
+      "properties": {
+        "date": "2025-04-14",
+        "temperature": 18.69,
+        "pH": 6.63,
+        "dissolvedOxygen": 7.06,
+        "EC": 1.13,
+        "turbidity": 0.36,
+        "orp": -1.86
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.0716,
+          22.5033
+        ]
+      },
+      "properties": {
+        "date": "2025-04-14",
+        "temperature": 20.88,
+        "pH": 7.26,
+        "dissolvedOxygen": 5.31,
+        "EC": 1.15,
+        "turbidity": 0.42,
+        "orp": -1.86
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.0716,
+          22.5033
+        ]
+      },
+      "properties": {
+        "date": "2025-04-14",
+        "temperature": 20.72,
+        "pH": 8.44,
+        "dissolvedOxygen": 9.16,
+        "EC": 1.1,
+        "turbidity": 0.38,
+        "orp": -1.81
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.0716,
+          22.5033
+        ]
+      },
+      "properties": {
+        "date": "2025-04-14",
+        "temperature": 20.08,
+        "pH": 8.17,
+        "dissolvedOxygen": 5.36,
+        "EC": 1.1,
+        "turbidity": 0.38,
+        "orp": -1.83
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.0716,
+          22.5033
+        ]
+      },
+      "properties": {
+        "date": "2025-05-26",
+        "temperature": 24.43,
+        "pH": 7.07,
+        "dissolvedOxygen": 7.65,
+        "EC": 1.1,
+        "turbidity": 0.43,
+        "orp": -1.9
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.0716,
+          22.5033
+        ]
+      },
+      "properties": {
+        "date": "2025-05-26",
+        "temperature": 15.03,
+        "pH": 7.56,
+        "dissolvedOxygen": 9.93,
+        "EC": 1.23,
+        "turbidity": 0.43,
+        "orp": -1.9
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.0716,
+          22.5033
+        ]
+      },
+      "properties": {
+        "date": "2025-05-26",
+        "temperature": 16.89,
+        "pH": 6.85,
+        "dissolvedOxygen": 6.95,
+        "EC": 1.18,
+        "turbidity": 0.43,
+        "orp": -1.85
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.0716,
+          22.5033
+        ]
+      },
+      "properties": {
+        "date": "2025-05-26",
+        "temperature": 27.41,
+        "pH": 7.55,
+        "dissolvedOxygen": 7.23,
+        "EC": 1.25,
+        "turbidity": 0.38,
+        "orp": -1.81
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.0716,
+          22.5033
+        ]
+      },
+      "properties": {
+        "date": "2025-05-26",
+        "temperature": 19.92,
+        "pH": 8.29,
+        "dissolvedOxygen": 5.76,
+        "EC": 1.2,
+        "turbidity": 0.35,
+        "orp": -1.81
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.0716,
+          22.5033
+        ]
+      },
+      "properties": {
+        "date": "2025-05-26",
+        "temperature": 26.23,
+        "pH": 8.18,
+        "dissolvedOxygen": 6.94,
+        "EC": 1.2,
+        "turbidity": 0.43,
+        "orp": -1.83
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.0716,
+          22.5033
+        ]
+      },
+      "properties": {
+        "date": "2025-05-26",
+        "temperature": 17.87,
+        "pH": 7.85,
+        "dissolvedOxygen": 6.98,
+        "EC": 1.12,
+        "turbidity": 0.43,
+        "orp": -1.81
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.0716,
+          22.5033
+        ]
+      },
+      "properties": {
+        "date": "2025-05-26",
+        "temperature": 20.47,
+        "pH": 8.49,
+        "dissolvedOxygen": 4.75,
+        "EC": 1.21,
+        "turbidity": 0.42,
+        "orp": -1.9
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.0716,
+          22.5033
+        ]
+      },
+      "properties": {
+        "date": "2025-05-26",
+        "temperature": 27.93,
+        "pH": 7.35,
+        "dissolvedOxygen": 8.85,
+        "EC": 1.18,
+        "turbidity": 0.39,
+        "orp": -1.89
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.0716,
+          22.5033
+        ]
+      },
+      "properties": {
+        "date": "2025-05-26",
+        "temperature": 17.61,
+        "pH": 7.44,
+        "dissolvedOxygen": 7.23,
+        "EC": 1.2,
+        "turbidity": 0.39,
+        "orp": -1.89
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.0716,
+          22.5033
+        ]
+      },
+      "properties": {
+        "date": "2025-07-07",
+        "temperature": 27.54,
+        "pH": 7.66,
+        "dissolvedOxygen": 4.82,
+        "EC": 1.15,
+        "turbidity": 0.38,
+        "orp": -1.81
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.0716,
+          22.5033
+        ]
+      },
+      "properties": {
+        "date": "2025-07-07",
+        "temperature": 24.07,
+        "pH": 8.43,
+        "dissolvedOxygen": 5.47,
+        "EC": 1.2,
+        "turbidity": 0.44,
+        "orp": -1.87
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.0716,
+          22.5033
+        ]
+      },
+      "properties": {
+        "date": "2025-07-07",
+        "temperature": 24.08,
+        "pH": 7.0,
+        "dissolvedOxygen": 8.03,
+        "EC": 1.14,
+        "turbidity": 0.43,
+        "orp": -1.89
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.0716,
+          22.5033
+        ]
+      },
+      "properties": {
+        "date": "2025-07-07",
+        "temperature": 16.5,
+        "pH": 7.47,
+        "dissolvedOxygen": 6.47,
+        "EC": 1.11,
+        "turbidity": 0.44,
+        "orp": -1.89
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.0716,
+          22.5033
+        ]
+      },
+      "properties": {
+        "date": "2025-07-07",
+        "temperature": 21.23,
+        "pH": 6.52,
+        "dissolvedOxygen": 5.41,
+        "EC": 1.19,
+        "turbidity": 0.37,
+        "orp": -1.88
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.0716,
+          22.5033
+        ]
+      },
+      "properties": {
+        "date": "2025-07-07",
+        "temperature": 19.14,
+        "pH": 7.11,
+        "dissolvedOxygen": 5.13,
+        "EC": 1.12,
+        "turbidity": 0.35,
+        "orp": -1.87
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.0716,
+          22.5033
+        ]
+      },
+      "properties": {
+        "date": "2025-07-07",
+        "temperature": 24.05,
+        "pH": 7.92,
+        "dissolvedOxygen": 9.45,
+        "EC": 1.1,
+        "turbidity": 0.37,
+        "orp": -1.9
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.0716,
+          22.5033
+        ]
+      },
+      "properties": {
+        "date": "2025-07-07",
+        "temperature": 18.58,
+        "pH": 8.45,
+        "dissolvedOxygen": 5.61,
+        "EC": 1.11,
+        "turbidity": 0.4,
+        "orp": -1.85
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.0716,
+          22.5033
+        ]
+      },
+      "properties": {
+        "date": "2025-07-07",
+        "temperature": 26.35,
+        "pH": 7.8,
+        "dissolvedOxygen": 7.79,
+        "EC": 1.24,
+        "turbidity": 0.42,
+        "orp": -1.85
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.0716,
+          22.5033
+        ]
+      },
+      "properties": {
+        "date": "2025-07-07",
+        "temperature": 21.31,
+        "pH": 6.77,
+        "dissolvedOxygen": 4.02,
+        "EC": 1.12,
+        "turbidity": 0.41,
+        "orp": -1.86
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.0716,
+          22.5033
+        ]
+      },
+      "properties": {
+        "date": "2025-08-18",
+        "temperature": 20.79,
+        "pH": 7.09,
+        "dissolvedOxygen": 8.2,
+        "EC": 1.22,
+        "turbidity": 0.43,
+        "orp": -1.87
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.0716,
+          22.5033
+        ]
+      },
+      "properties": {
+        "date": "2025-08-18",
+        "temperature": 20.73,
+        "pH": 6.59,
+        "dissolvedOxygen": 5.47,
+        "EC": 1.18,
+        "turbidity": 0.38,
+        "orp": -1.86
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.0716,
+          22.5033
+        ]
+      },
+      "properties": {
+        "date": "2025-08-18",
+        "temperature": 21.47,
+        "pH": 8.41,
+        "dissolvedOxygen": 7.53,
+        "EC": 1.14,
+        "turbidity": 0.44,
+        "orp": -1.88
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.0716,
+          22.5033
+        ]
+      },
+      "properties": {
+        "date": "2025-08-18",
+        "temperature": 16.03,
+        "pH": 6.7,
+        "dissolvedOxygen": 6.95,
+        "EC": 1.1,
+        "turbidity": 0.4,
+        "orp": -1.85
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.0716,
+          22.5033
+        ]
+      },
+      "properties": {
+        "date": "2025-08-18",
+        "temperature": 22.95,
+        "pH": 7.93,
+        "dissolvedOxygen": 4.22,
+        "EC": 1.15,
+        "turbidity": 0.41,
+        "orp": -1.86
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.0716,
+          22.5033
+        ]
+      },
+      "properties": {
+        "date": "2025-08-18",
+        "temperature": 15.71,
+        "pH": 6.93,
+        "dissolvedOxygen": 6.87,
+        "EC": 1.12,
+        "turbidity": 0.44,
+        "orp": -1.88
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.0716,
+          22.5033
+        ]
+      },
+      "properties": {
+        "date": "2025-08-18",
+        "temperature": 28.45,
+        "pH": 8.03,
+        "dissolvedOxygen": 6.99,
+        "EC": 1.22,
+        "turbidity": 0.44,
+        "orp": -1.9
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.0716,
+          22.5033
+        ]
+      },
+      "properties": {
+        "date": "2025-08-18",
+        "temperature": 28.88,
+        "pH": 6.86,
+        "dissolvedOxygen": 4.11,
+        "EC": 1.18,
+        "turbidity": 0.44,
+        "orp": -1.85
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.0716,
+          22.5033
+        ]
+      },
+      "properties": {
+        "date": "2025-08-18",
+        "temperature": 25.03,
+        "pH": 8.06,
+        "dissolvedOxygen": 4.88,
+        "EC": 1.17,
+        "turbidity": 0.44,
+        "orp": -1.87
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.0716,
+          22.5033
+        ]
+      },
+      "properties": {
+        "date": "2025-08-18",
+        "temperature": 23.21,
+        "pH": 8.49,
+        "dissolvedOxygen": 9.03,
+        "EC": 1.2,
+        "turbidity": 0.36,
+        "orp": -1.88
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.0716,
+          22.5033
+        ]
+      },
+      "properties": {
+        "date": "2025-09-29",
+        "temperature": 19.52,
+        "pH": 6.52,
+        "dissolvedOxygen": 6.91,
+        "EC": 1.23,
+        "turbidity": 0.44,
+        "orp": -1.82
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.0716,
+          22.5033
+        ]
+      },
+      "properties": {
+        "date": "2025-09-29",
+        "temperature": 28.02,
+        "pH": 8.36,
+        "dissolvedOxygen": 9.34,
+        "EC": 1.22,
+        "turbidity": 0.4,
+        "orp": -1.89
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.0716,
+          22.5033
+        ]
+      },
+      "properties": {
+        "date": "2025-09-29",
+        "temperature": 18.19,
+        "pH": 6.71,
+        "dissolvedOxygen": 6.03,
+        "EC": 1.22,
+        "turbidity": 0.37,
+        "orp": -1.89
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.0716,
+          22.5033
+        ]
+      },
+      "properties": {
+        "date": "2025-09-29",
+        "temperature": 25.8,
+        "pH": 8.21,
+        "dissolvedOxygen": 5.9,
+        "EC": 1.14,
+        "turbidity": 0.41,
+        "orp": -1.85
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.0716,
+          22.5033
+        ]
+      },
+      "properties": {
+        "date": "2025-09-29",
+        "temperature": 20.99,
+        "pH": 7.88,
+        "dissolvedOxygen": 8.21,
+        "EC": 1.11,
+        "turbidity": 0.36,
+        "orp": -1.81
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.0716,
+          22.5033
+        ]
+      },
+      "properties": {
+        "date": "2025-09-29",
+        "temperature": 27.37,
+        "pH": 6.91,
+        "dissolvedOxygen": 4.4,
+        "EC": 1.18,
+        "turbidity": 0.39,
+        "orp": -1.84
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.0716,
+          22.5033
+        ]
+      },
+      "properties": {
+        "date": "2025-09-29",
+        "temperature": 26.31,
+        "pH": 7.11,
+        "dissolvedOxygen": 6.86,
+        "EC": 1.1,
+        "turbidity": 0.36,
+        "orp": -1.84
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.0716,
+          22.5033
+        ]
+      },
+      "properties": {
+        "date": "2025-09-29",
+        "temperature": 19.14,
+        "pH": 8.47,
+        "dissolvedOxygen": 8.24,
+        "EC": 1.22,
+        "turbidity": 0.38,
+        "orp": -1.86
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.0716,
+          22.5033
+        ]
+      },
+      "properties": {
+        "date": "2025-09-29",
+        "temperature": 18.6,
+        "pH": 7.31,
+        "dissolvedOxygen": 7.45,
+        "EC": 1.23,
+        "turbidity": 0.41,
+        "orp": -1.86
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.0716,
+          22.5033
+        ]
+      },
+      "properties": {
+        "date": "2025-09-29",
+        "temperature": 19.44,
+        "pH": 7.06,
+        "dissolvedOxygen": 8.89,
+        "EC": 1.16,
+        "turbidity": 0.4,
+        "orp": -1.89
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.0716,
+          22.5033
+        ]
+      },
+      "properties": {
+        "date": "2025-11-10",
+        "temperature": 15.95,
+        "pH": 7.78,
+        "dissolvedOxygen": 5.97,
+        "EC": 1.21,
+        "turbidity": 0.36,
+        "orp": -1.85
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.0716,
+          22.5033
+        ]
+      },
+      "properties": {
+        "date": "2025-11-10",
+        "temperature": 16.96,
+        "pH": 7.38,
+        "dissolvedOxygen": 9.43,
+        "EC": 1.2,
+        "turbidity": 0.43,
+        "orp": -1.82
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.0716,
+          22.5033
+        ]
+      },
+      "properties": {
+        "date": "2025-11-10",
+        "temperature": 23.09,
+        "pH": 7.9,
+        "dissolvedOxygen": 9.24,
+        "EC": 1.22,
+        "turbidity": 0.41,
+        "orp": -1.88
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.0716,
+          22.5033
+        ]
+      },
+      "properties": {
+        "date": "2025-11-10",
+        "temperature": 23.69,
+        "pH": 8.06,
+        "dissolvedOxygen": 7.95,
+        "EC": 1.23,
+        "turbidity": 0.37,
+        "orp": -1.82
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.0716,
+          22.5033
+        ]
+      },
+      "properties": {
+        "date": "2025-11-10",
+        "temperature": 27.4,
+        "pH": 7.38,
+        "dissolvedOxygen": 6.65,
+        "EC": 1.21,
+        "turbidity": 0.44,
+        "orp": -1.87
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.0716,
+          22.5033
+        ]
+      },
+      "properties": {
+        "date": "2025-11-10",
+        "temperature": 25.9,
+        "pH": 7.83,
+        "dissolvedOxygen": 8.87,
+        "EC": 1.14,
+        "turbidity": 0.38,
+        "orp": -1.88
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.0716,
+          22.5033
+        ]
+      },
+      "properties": {
+        "date": "2025-11-10",
+        "temperature": 29.62,
+        "pH": 8.33,
+        "dissolvedOxygen": 4.32,
+        "EC": 1.12,
+        "turbidity": 0.39,
+        "orp": -1.86
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.0716,
+          22.5033
+        ]
+      },
+      "properties": {
+        "date": "2025-11-10",
+        "temperature": 29.04,
+        "pH": 7.25,
+        "dissolvedOxygen": 9.38,
+        "EC": 1.15,
+        "turbidity": 0.44,
+        "orp": -1.83
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.0716,
+          22.5033
+        ]
+      },
+      "properties": {
+        "date": "2025-11-10",
+        "temperature": 29.18,
+        "pH": 7.19,
+        "dissolvedOxygen": 8.16,
+        "EC": 1.12,
+        "turbidity": 0.37,
+        "orp": -1.88
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.0716,
+          22.5033
+        ]
+      },
+      "properties": {
+        "date": "2025-11-10",
+        "temperature": 17.06,
+        "pH": 6.72,
+        "dissolvedOxygen": 8.76,
+        "EC": 1.13,
+        "turbidity": 0.43,
+        "orp": -1.84
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.0716,
+          22.5033
+        ]
+      },
+      "properties": {
+        "date": "2025-12-22",
+        "temperature": 24.67,
+        "pH": 7.18,
+        "dissolvedOxygen": 7.1,
+        "EC": 1.19,
+        "turbidity": 0.42,
+        "orp": -1.85
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.0716,
+          22.5033
+        ]
+      },
+      "properties": {
+        "date": "2025-12-22",
+        "temperature": 25.43,
+        "pH": 7.16,
+        "dissolvedOxygen": 7.22,
+        "EC": 1.13,
+        "turbidity": 0.39,
+        "orp": -1.81
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.0716,
+          22.5033
+        ]
+      },
+      "properties": {
+        "date": "2025-12-22",
+        "temperature": 25.49,
+        "pH": 8.01,
+        "dissolvedOxygen": 6.9,
+        "EC": 1.16,
+        "turbidity": 0.35,
+        "orp": -1.89
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.0716,
+          22.5033
+        ]
+      },
+      "properties": {
+        "date": "2025-12-22",
+        "temperature": 28.88,
+        "pH": 6.63,
+        "dissolvedOxygen": 4.46,
+        "EC": 1.22,
+        "turbidity": 0.43,
+        "orp": -1.87
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.0716,
+          22.5033
+        ]
+      },
+      "properties": {
+        "date": "2025-12-22",
+        "temperature": 20.58,
+        "pH": 7.07,
+        "dissolvedOxygen": 5.31,
+        "EC": 1.25,
+        "turbidity": 0.45,
+        "orp": -1.89
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.0716,
+          22.5033
+        ]
+      },
+      "properties": {
+        "date": "2025-12-22",
+        "temperature": 15.72,
+        "pH": 6.62,
+        "dissolvedOxygen": 7.88,
+        "EC": 1.22,
+        "turbidity": 0.37,
+        "orp": -1.81
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.0716,
+          22.5033
+        ]
+      },
+      "properties": {
+        "date": "2025-12-22",
+        "temperature": 24.36,
+        "pH": 6.74,
+        "dissolvedOxygen": 7.29,
+        "EC": 1.15,
+        "turbidity": 0.41,
+        "orp": -1.85
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.0716,
+          22.5033
+        ]
+      },
+      "properties": {
+        "date": "2025-12-22",
+        "temperature": 28.37,
+        "pH": 8.14,
+        "dissolvedOxygen": 6.76,
+        "EC": 1.2,
+        "turbidity": 0.39,
+        "orp": -1.9
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.0716,
+          22.5033
+        ]
+      },
+      "properties": {
+        "date": "2025-12-22",
+        "temperature": 21.23,
+        "pH": 6.95,
+        "dissolvedOxygen": 8.22,
+        "EC": 1.18,
+        "turbidity": 0.38,
+        "orp": -1.82
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.0716,
+          22.5033
+        ]
+      },
+      "properties": {
+        "date": "2025-12-22",
+        "temperature": 21.07,
+        "pH": 7.35,
+        "dissolvedOxygen": 8.21,
+        "EC": 1.22,
+        "turbidity": 0.36,
+        "orp": -1.87
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.072227,
+          22.502035
+        ]
+      },
+      "properties": {
+        "date": "2024-12-09",
+        "temperature": 29.03,
+        "pH": 6.63,
+        "dissolvedOxygen": 5.28,
+        "EC": 1.24,
+        "turbidity": 0.44,
+        "orp": -1.85
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.072227,
+          22.502035
+        ]
+      },
+      "properties": {
+        "date": "2024-12-09",
+        "temperature": 24.99,
+        "pH": 7.45,
+        "dissolvedOxygen": 4.3,
+        "EC": 1.15,
+        "turbidity": 0.37,
+        "orp": -1.81
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.072227,
+          22.502035
+        ]
+      },
+      "properties": {
+        "date": "2024-12-09",
+        "temperature": 17.15,
+        "pH": 8.12,
+        "dissolvedOxygen": 9.44,
+        "EC": 1.21,
+        "turbidity": 0.41,
+        "orp": -1.89
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.072227,
+          22.502035
+        ]
+      },
+      "properties": {
+        "date": "2024-12-09",
+        "temperature": 17.5,
+        "pH": 6.51,
+        "dissolvedOxygen": 8.71,
+        "EC": 1.12,
+        "turbidity": 0.43,
+        "orp": -1.89
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.072227,
+          22.502035
+        ]
+      },
+      "properties": {
+        "date": "2024-12-09",
+        "temperature": 15.79,
+        "pH": 6.82,
+        "dissolvedOxygen": 4.8,
+        "EC": 1.2,
+        "turbidity": 0.44,
+        "orp": -1.88
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.072227,
+          22.502035
+        ]
+      },
+      "properties": {
+        "date": "2024-12-09",
+        "temperature": 27.45,
+        "pH": 8.36,
+        "dissolvedOxygen": 7.37,
+        "EC": 1.1,
+        "turbidity": 0.45,
+        "orp": -1.85
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.072227,
+          22.502035
+        ]
+      },
+      "properties": {
+        "date": "2024-12-09",
+        "temperature": 28.15,
+        "pH": 8.35,
+        "dissolvedOxygen": 5.22,
+        "EC": 1.11,
+        "turbidity": 0.39,
+        "orp": -1.86
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.072227,
+          22.502035
+        ]
+      },
+      "properties": {
+        "date": "2024-12-09",
+        "temperature": 18.9,
+        "pH": 6.96,
+        "dissolvedOxygen": 5.65,
+        "EC": 1.12,
+        "turbidity": 0.39,
+        "orp": -1.9
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.072227,
+          22.502035
+        ]
+      },
+      "properties": {
+        "date": "2024-12-09",
+        "temperature": 25.0,
+        "pH": 8.08,
+        "dissolvedOxygen": 6.17,
+        "EC": 1.23,
+        "turbidity": 0.37,
+        "orp": -1.84
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.072227,
+          22.502035
+        ]
+      },
+      "properties": {
+        "date": "2024-12-09",
+        "temperature": 16.34,
+        "pH": 8.49,
+        "dissolvedOxygen": 5.3,
+        "EC": 1.17,
+        "turbidity": 0.36,
+        "orp": -1.85
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.072227,
+          22.502035
+        ]
+      },
+      "properties": {
+        "date": "2025-01-20",
+        "temperature": 27.95,
+        "pH": 8.33,
+        "dissolvedOxygen": 8.4,
+        "EC": 1.21,
+        "turbidity": 0.43,
+        "orp": -1.9
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.072227,
+          22.502035
+        ]
+      },
+      "properties": {
+        "date": "2025-01-20",
+        "temperature": 28.64,
+        "pH": 7.54,
+        "dissolvedOxygen": 4.52,
+        "EC": 1.2,
+        "turbidity": 0.39,
+        "orp": -1.85
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.072227,
+          22.502035
+        ]
+      },
+      "properties": {
+        "date": "2025-01-20",
+        "temperature": 25.92,
+        "pH": 7.61,
+        "dissolvedOxygen": 5.99,
+        "EC": 1.11,
+        "turbidity": 0.37,
+        "orp": -1.8
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.072227,
+          22.502035
+        ]
+      },
+      "properties": {
+        "date": "2025-01-20",
+        "temperature": 21.21,
+        "pH": 7.92,
+        "dissolvedOxygen": 5.39,
+        "EC": 1.11,
+        "turbidity": 0.44,
+        "orp": -1.84
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.072227,
+          22.502035
+        ]
+      },
+      "properties": {
+        "date": "2025-01-20",
+        "temperature": 21.83,
+        "pH": 7.67,
+        "dissolvedOxygen": 6.89,
+        "EC": 1.19,
+        "turbidity": 0.36,
+        "orp": -1.85
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.072227,
+          22.502035
+        ]
+      },
+      "properties": {
+        "date": "2025-01-20",
+        "temperature": 16.09,
+        "pH": 7.21,
+        "dissolvedOxygen": 7.39,
+        "EC": 1.13,
+        "turbidity": 0.38,
+        "orp": -1.83
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.072227,
+          22.502035
+        ]
+      },
+      "properties": {
+        "date": "2025-01-20",
+        "temperature": 18.0,
+        "pH": 7.5,
+        "dissolvedOxygen": 8.53,
+        "EC": 1.25,
+        "turbidity": 0.43,
+        "orp": -1.84
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.072227,
+          22.502035
+        ]
+      },
+      "properties": {
+        "date": "2025-01-20",
+        "temperature": 27.92,
+        "pH": 6.97,
+        "dissolvedOxygen": 5.66,
+        "EC": 1.13,
+        "turbidity": 0.37,
+        "orp": -1.85
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.072227,
+          22.502035
+        ]
+      },
+      "properties": {
+        "date": "2025-01-20",
+        "temperature": 25.96,
+        "pH": 6.75,
+        "dissolvedOxygen": 9.39,
+        "EC": 1.24,
+        "turbidity": 0.42,
+        "orp": -1.82
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.072227,
+          22.502035
+        ]
+      },
+      "properties": {
+        "date": "2025-01-20",
+        "temperature": 25.72,
+        "pH": 6.6,
+        "dissolvedOxygen": 5.0,
+        "EC": 1.25,
+        "turbidity": 0.41,
+        "orp": -1.86
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.072227,
+          22.502035
+        ]
+      },
+      "properties": {
+        "date": "2025-03-03",
+        "temperature": 28.44,
+        "pH": 6.63,
+        "dissolvedOxygen": 4.03,
+        "EC": 1.19,
+        "turbidity": 0.35,
+        "orp": -1.87
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.072227,
+          22.502035
+        ]
+      },
+      "properties": {
+        "date": "2025-03-03",
+        "temperature": 25.84,
+        "pH": 6.72,
+        "dissolvedOxygen": 5.34,
+        "EC": 1.17,
+        "turbidity": 0.39,
+        "orp": -1.83
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.072227,
+          22.502035
+        ]
+      },
+      "properties": {
+        "date": "2025-03-03",
+        "temperature": 22.6,
+        "pH": 8.26,
+        "dissolvedOxygen": 5.19,
+        "EC": 1.16,
+        "turbidity": 0.37,
+        "orp": -1.86
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.072227,
+          22.502035
+        ]
+      },
+      "properties": {
+        "date": "2025-03-03",
+        "temperature": 19.38,
+        "pH": 6.55,
+        "dissolvedOxygen": 6.83,
+        "EC": 1.25,
+        "turbidity": 0.37,
+        "orp": -1.81
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.072227,
+          22.502035
+        ]
+      },
+      "properties": {
+        "date": "2025-03-03",
+        "temperature": 28.74,
+        "pH": 7.17,
+        "dissolvedOxygen": 4.16,
+        "EC": 1.17,
+        "turbidity": 0.43,
+        "orp": -1.83
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.072227,
+          22.502035
+        ]
+      },
+      "properties": {
+        "date": "2025-03-03",
+        "temperature": 22.01,
+        "pH": 8.48,
+        "dissolvedOxygen": 5.91,
+        "EC": 1.18,
+        "turbidity": 0.41,
+        "orp": -1.85
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.072227,
+          22.502035
+        ]
+      },
+      "properties": {
+        "date": "2025-03-03",
+        "temperature": 15.96,
+        "pH": 6.6,
+        "dissolvedOxygen": 9.86,
+        "EC": 1.11,
+        "turbidity": 0.4,
+        "orp": -1.85
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.072227,
+          22.502035
+        ]
+      },
+      "properties": {
+        "date": "2025-03-03",
+        "temperature": 17.16,
+        "pH": 7.61,
+        "dissolvedOxygen": 5.79,
+        "EC": 1.24,
+        "turbidity": 0.37,
+        "orp": -1.88
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.072227,
+          22.502035
+        ]
+      },
+      "properties": {
+        "date": "2025-03-03",
+        "temperature": 25.59,
+        "pH": 7.17,
+        "dissolvedOxygen": 5.61,
+        "EC": 1.23,
+        "turbidity": 0.36,
+        "orp": -1.88
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.072227,
+          22.502035
+        ]
+      },
+      "properties": {
+        "date": "2025-03-03",
+        "temperature": 26.74,
+        "pH": 7.2,
+        "dissolvedOxygen": 8.27,
+        "EC": 1.15,
+        "turbidity": 0.38,
+        "orp": -1.81
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.072227,
+          22.502035
+        ]
+      },
+      "properties": {
+        "date": "2025-04-14",
+        "temperature": 23.34,
+        "pH": 7.15,
+        "dissolvedOxygen": 5.04,
+        "EC": 1.24,
+        "turbidity": 0.44,
+        "orp": -1.84
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.072227,
+          22.502035
+        ]
+      },
+      "properties": {
+        "date": "2025-04-14",
+        "temperature": 25.41,
+        "pH": 7.21,
+        "dissolvedOxygen": 9.39,
+        "EC": 1.14,
+        "turbidity": 0.35,
+        "orp": -1.9
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.072227,
+          22.502035
+        ]
+      },
+      "properties": {
+        "date": "2025-04-14",
+        "temperature": 23.71,
+        "pH": 8.1,
+        "dissolvedOxygen": 8.11,
+        "EC": 1.22,
+        "turbidity": 0.42,
+        "orp": -1.85
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.072227,
+          22.502035
+        ]
+      },
+      "properties": {
+        "date": "2025-04-14",
+        "temperature": 29.14,
+        "pH": 6.71,
+        "dissolvedOxygen": 7.32,
+        "EC": 1.11,
+        "turbidity": 0.45,
+        "orp": -1.89
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.072227,
+          22.502035
+        ]
+      },
+      "properties": {
+        "date": "2025-04-14",
+        "temperature": 22.98,
+        "pH": 7.6,
+        "dissolvedOxygen": 4.43,
+        "EC": 1.2,
+        "turbidity": 0.37,
+        "orp": -1.87
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.072227,
+          22.502035
+        ]
+      },
+      "properties": {
+        "date": "2025-04-14",
+        "temperature": 16.52,
+        "pH": 8.16,
+        "dissolvedOxygen": 4.64,
+        "EC": 1.23,
+        "turbidity": 0.44,
+        "orp": -1.81
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.072227,
+          22.502035
+        ]
+      },
+      "properties": {
+        "date": "2025-04-14",
+        "temperature": 18.41,
+        "pH": 7.52,
+        "dissolvedOxygen": 5.33,
+        "EC": 1.22,
+        "turbidity": 0.38,
+        "orp": -1.85
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.072227,
+          22.502035
+        ]
+      },
+      "properties": {
+        "date": "2025-04-14",
+        "temperature": 16.51,
+        "pH": 8.14,
+        "dissolvedOxygen": 8.1,
+        "EC": 1.12,
+        "turbidity": 0.44,
+        "orp": -1.82
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.072227,
+          22.502035
+        ]
+      },
+      "properties": {
+        "date": "2025-04-14",
+        "temperature": 16.01,
+        "pH": 8.27,
+        "dissolvedOxygen": 5.26,
+        "EC": 1.11,
+        "turbidity": 0.42,
+        "orp": -1.9
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.072227,
+          22.502035
+        ]
+      },
+      "properties": {
+        "date": "2025-04-14",
+        "temperature": 20.81,
+        "pH": 7.96,
+        "dissolvedOxygen": 5.49,
+        "EC": 1.14,
+        "turbidity": 0.35,
+        "orp": -1.9
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.072227,
+          22.502035
+        ]
+      },
+      "properties": {
+        "date": "2025-05-26",
+        "temperature": 22.53,
+        "pH": 7.28,
+        "dissolvedOxygen": 6.31,
+        "EC": 1.14,
+        "turbidity": 0.42,
+        "orp": -1.84
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.072227,
+          22.502035
+        ]
+      },
+      "properties": {
+        "date": "2025-05-26",
+        "temperature": 22.21,
+        "pH": 8.14,
+        "dissolvedOxygen": 6.65,
+        "EC": 1.12,
+        "turbidity": 0.43,
+        "orp": -1.88
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.072227,
+          22.502035
+        ]
+      },
+      "properties": {
+        "date": "2025-05-26",
+        "temperature": 25.02,
+        "pH": 7.27,
+        "dissolvedOxygen": 9.73,
+        "EC": 1.21,
+        "turbidity": 0.45,
+        "orp": -1.83
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.072227,
+          22.502035
+        ]
+      },
+      "properties": {
+        "date": "2025-05-26",
+        "temperature": 26.07,
+        "pH": 6.94,
+        "dissolvedOxygen": 4.03,
+        "EC": 1.11,
+        "turbidity": 0.42,
+        "orp": -1.87
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.072227,
+          22.502035
+        ]
+      },
+      "properties": {
+        "date": "2025-05-26",
+        "temperature": 15.51,
+        "pH": 6.74,
+        "dissolvedOxygen": 5.5,
+        "EC": 1.18,
+        "turbidity": 0.38,
+        "orp": -1.89
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.072227,
+          22.502035
+        ]
+      },
+      "properties": {
+        "date": "2025-05-26",
+        "temperature": 28.35,
+        "pH": 8.06,
+        "dissolvedOxygen": 7.78,
+        "EC": 1.21,
+        "turbidity": 0.41,
+        "orp": -1.86
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.072227,
+          22.502035
+        ]
+      },
+      "properties": {
+        "date": "2025-05-26",
+        "temperature": 16.55,
+        "pH": 8.03,
+        "dissolvedOxygen": 6.94,
+        "EC": 1.24,
+        "turbidity": 0.44,
+        "orp": -1.86
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.072227,
+          22.502035
+        ]
+      },
+      "properties": {
+        "date": "2025-05-26",
+        "temperature": 21.05,
+        "pH": 7.91,
+        "dissolvedOxygen": 4.59,
+        "EC": 1.22,
+        "turbidity": 0.35,
+        "orp": -1.84
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.072227,
+          22.502035
+        ]
+      },
+      "properties": {
+        "date": "2025-05-26",
+        "temperature": 24.23,
+        "pH": 6.63,
+        "dissolvedOxygen": 6.03,
+        "EC": 1.14,
+        "turbidity": 0.43,
+        "orp": -1.87
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.072227,
+          22.502035
+        ]
+      },
+      "properties": {
+        "date": "2025-05-26",
+        "temperature": 20.33,
+        "pH": 8.37,
+        "dissolvedOxygen": 6.74,
+        "EC": 1.12,
+        "turbidity": 0.42,
+        "orp": -1.83
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.072227,
+          22.502035
+        ]
+      },
+      "properties": {
+        "date": "2025-07-07",
+        "temperature": 29.53,
+        "pH": 7.52,
+        "dissolvedOxygen": 5.42,
+        "EC": 1.11,
+        "turbidity": 0.39,
+        "orp": -1.9
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.072227,
+          22.502035
+        ]
+      },
+      "properties": {
+        "date": "2025-07-07",
+        "temperature": 18.96,
+        "pH": 7.9,
+        "dissolvedOxygen": 9.57,
+        "EC": 1.19,
+        "turbidity": 0.37,
+        "orp": -1.83
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.072227,
+          22.502035
+        ]
+      },
+      "properties": {
+        "date": "2025-07-07",
+        "temperature": 16.88,
+        "pH": 7.09,
+        "dissolvedOxygen": 5.37,
+        "EC": 1.18,
+        "turbidity": 0.42,
+        "orp": -1.85
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.072227,
+          22.502035
+        ]
+      },
+      "properties": {
+        "date": "2025-07-07",
+        "temperature": 26.26,
+        "pH": 7.85,
+        "dissolvedOxygen": 6.74,
+        "EC": 1.14,
+        "turbidity": 0.42,
+        "orp": -1.81
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.072227,
+          22.502035
+        ]
+      },
+      "properties": {
+        "date": "2025-07-07",
+        "temperature": 26.68,
+        "pH": 7.84,
+        "dissolvedOxygen": 9.19,
+        "EC": 1.2,
+        "turbidity": 0.38,
+        "orp": -1.85
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.072227,
+          22.502035
+        ]
+      },
+      "properties": {
+        "date": "2025-07-07",
+        "temperature": 28.09,
+        "pH": 8.26,
+        "dissolvedOxygen": 7.76,
+        "EC": 1.14,
+        "turbidity": 0.4,
+        "orp": -1.87
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.072227,
+          22.502035
+        ]
+      },
+      "properties": {
+        "date": "2025-07-07",
+        "temperature": 21.65,
+        "pH": 7.69,
+        "dissolvedOxygen": 5.93,
+        "EC": 1.12,
+        "turbidity": 0.38,
+        "orp": -1.89
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.072227,
+          22.502035
+        ]
+      },
+      "properties": {
+        "date": "2025-07-07",
+        "temperature": 19.6,
+        "pH": 8.31,
+        "dissolvedOxygen": 5.19,
+        "EC": 1.1,
+        "turbidity": 0.39,
+        "orp": -1.9
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.072227,
+          22.502035
+        ]
+      },
+      "properties": {
+        "date": "2025-07-07",
+        "temperature": 18.94,
+        "pH": 6.79,
+        "dissolvedOxygen": 7.75,
+        "EC": 1.22,
+        "turbidity": 0.38,
+        "orp": -1.8
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.072227,
+          22.502035
+        ]
+      },
+      "properties": {
+        "date": "2025-07-07",
+        "temperature": 26.87,
+        "pH": 7.98,
+        "dissolvedOxygen": 4.96,
+        "EC": 1.2,
+        "turbidity": 0.36,
+        "orp": -1.84
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.072227,
+          22.502035
+        ]
+      },
+      "properties": {
+        "date": "2025-08-18",
+        "temperature": 19.09,
+        "pH": 8.12,
+        "dissolvedOxygen": 4.36,
+        "EC": 1.17,
+        "turbidity": 0.35,
+        "orp": -1.88
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.072227,
+          22.502035
+        ]
+      },
+      "properties": {
+        "date": "2025-08-18",
+        "temperature": 21.73,
+        "pH": 6.68,
+        "dissolvedOxygen": 9.72,
+        "EC": 1.14,
+        "turbidity": 0.4,
+        "orp": -1.83
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.072227,
+          22.502035
+        ]
+      },
+      "properties": {
+        "date": "2025-08-18",
+        "temperature": 19.24,
+        "pH": 8.35,
+        "dissolvedOxygen": 6.72,
+        "EC": 1.22,
+        "turbidity": 0.35,
+        "orp": -1.89
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.072227,
+          22.502035
+        ]
+      },
+      "properties": {
+        "date": "2025-08-18",
+        "temperature": 21.37,
+        "pH": 6.5,
+        "dissolvedOxygen": 6.17,
+        "EC": 1.24,
+        "turbidity": 0.41,
+        "orp": -1.89
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.072227,
+          22.502035
+        ]
+      },
+      "properties": {
+        "date": "2025-08-18",
+        "temperature": 18.87,
+        "pH": 8.15,
+        "dissolvedOxygen": 5.01,
+        "EC": 1.22,
+        "turbidity": 0.36,
+        "orp": -1.88
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.072227,
+          22.502035
+        ]
+      },
+      "properties": {
+        "date": "2025-08-18",
+        "temperature": 22.2,
+        "pH": 8.45,
+        "dissolvedOxygen": 5.24,
+        "EC": 1.23,
+        "turbidity": 0.4,
+        "orp": -1.81
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.072227,
+          22.502035
+        ]
+      },
+      "properties": {
+        "date": "2025-08-18",
+        "temperature": 24.65,
+        "pH": 8.41,
+        "dissolvedOxygen": 8.69,
+        "EC": 1.15,
+        "turbidity": 0.44,
+        "orp": -1.81
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.072227,
+          22.502035
+        ]
+      },
+      "properties": {
+        "date": "2025-08-18",
+        "temperature": 28.94,
+        "pH": 7.78,
+        "dissolvedOxygen": 8.09,
+        "EC": 1.17,
+        "turbidity": 0.4,
+        "orp": -1.85
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.072227,
+          22.502035
+        ]
+      },
+      "properties": {
+        "date": "2025-08-18",
+        "temperature": 24.53,
+        "pH": 8.46,
+        "dissolvedOxygen": 5.95,
+        "EC": 1.22,
+        "turbidity": 0.44,
+        "orp": -1.87
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.072227,
+          22.502035
+        ]
+      },
+      "properties": {
+        "date": "2025-08-18",
+        "temperature": 28.98,
+        "pH": 8.09,
+        "dissolvedOxygen": 5.46,
+        "EC": 1.16,
+        "turbidity": 0.39,
+        "orp": -1.85
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.072227,
+          22.502035
+        ]
+      },
+      "properties": {
+        "date": "2025-09-29",
+        "temperature": 19.03,
+        "pH": 7.84,
+        "dissolvedOxygen": 5.74,
+        "EC": 1.13,
+        "turbidity": 0.44,
+        "orp": -1.87
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.072227,
+          22.502035
+        ]
+      },
+      "properties": {
+        "date": "2025-09-29",
+        "temperature": 24.39,
+        "pH": 8.05,
+        "dissolvedOxygen": 7.19,
+        "EC": 1.15,
+        "turbidity": 0.41,
+        "orp": -1.84
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.072227,
+          22.502035
+        ]
+      },
+      "properties": {
+        "date": "2025-09-29",
+        "temperature": 29.65,
+        "pH": 6.91,
+        "dissolvedOxygen": 9.12,
+        "EC": 1.22,
+        "turbidity": 0.4,
+        "orp": -1.88
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.072227,
+          22.502035
+        ]
+      },
+      "properties": {
+        "date": "2025-09-29",
+        "temperature": 23.16,
+        "pH": 6.74,
+        "dissolvedOxygen": 7.69,
+        "EC": 1.15,
+        "turbidity": 0.35,
+        "orp": -1.9
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.072227,
+          22.502035
+        ]
+      },
+      "properties": {
+        "date": "2025-09-29",
+        "temperature": 15.82,
+        "pH": 7.98,
+        "dissolvedOxygen": 6.17,
+        "EC": 1.11,
+        "turbidity": 0.39,
+        "orp": -1.83
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.072227,
+          22.502035
+        ]
+      },
+      "properties": {
+        "date": "2025-09-29",
+        "temperature": 19.45,
+        "pH": 6.93,
+        "dissolvedOxygen": 6.01,
+        "EC": 1.12,
+        "turbidity": 0.44,
+        "orp": -1.9
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.072227,
+          22.502035
+        ]
+      },
+      "properties": {
+        "date": "2025-09-29",
+        "temperature": 20.42,
+        "pH": 7.12,
+        "dissolvedOxygen": 7.28,
+        "EC": 1.23,
+        "turbidity": 0.36,
+        "orp": -1.87
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.072227,
+          22.502035
+        ]
+      },
+      "properties": {
+        "date": "2025-09-29",
+        "temperature": 18.84,
+        "pH": 7.98,
+        "dissolvedOxygen": 4.27,
+        "EC": 1.19,
+        "turbidity": 0.44,
+        "orp": -1.84
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.072227,
+          22.502035
+        ]
+      },
+      "properties": {
+        "date": "2025-09-29",
+        "temperature": 21.61,
+        "pH": 7.31,
+        "dissolvedOxygen": 8.17,
+        "EC": 1.14,
+        "turbidity": 0.37,
+        "orp": -1.82
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.072227,
+          22.502035
+        ]
+      },
+      "properties": {
+        "date": "2025-09-29",
+        "temperature": 18.16,
+        "pH": 8.4,
+        "dissolvedOxygen": 7.36,
+        "EC": 1.2,
+        "turbidity": 0.39,
+        "orp": -1.82
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.072227,
+          22.502035
+        ]
+      },
+      "properties": {
+        "date": "2025-11-10",
+        "temperature": 29.09,
+        "pH": 8.35,
+        "dissolvedOxygen": 7.94,
+        "EC": 1.16,
+        "turbidity": 0.45,
+        "orp": -1.87
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.072227,
+          22.502035
+        ]
+      },
+      "properties": {
+        "date": "2025-11-10",
+        "temperature": 15.39,
+        "pH": 8.03,
+        "dissolvedOxygen": 7.27,
+        "EC": 1.15,
+        "turbidity": 0.36,
+        "orp": -1.81
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.072227,
+          22.502035
+        ]
+      },
+      "properties": {
+        "date": "2025-11-10",
+        "temperature": 25.41,
+        "pH": 6.58,
+        "dissolvedOxygen": 6.01,
+        "EC": 1.11,
+        "turbidity": 0.44,
+        "orp": -1.83
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.072227,
+          22.502035
+        ]
+      },
+      "properties": {
+        "date": "2025-11-10",
+        "temperature": 17.96,
+        "pH": 7.3,
+        "dissolvedOxygen": 4.82,
+        "EC": 1.14,
+        "turbidity": 0.45,
+        "orp": -1.82
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.072227,
+          22.502035
+        ]
+      },
+      "properties": {
+        "date": "2025-11-10",
+        "temperature": 18.11,
+        "pH": 7.02,
+        "dissolvedOxygen": 4.05,
+        "EC": 1.19,
+        "turbidity": 0.42,
+        "orp": -1.81
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.072227,
+          22.502035
+        ]
+      },
+      "properties": {
+        "date": "2025-11-10",
+        "temperature": 22.88,
+        "pH": 6.53,
+        "dissolvedOxygen": 4.13,
+        "EC": 1.2,
+        "turbidity": 0.37,
+        "orp": -1.81
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.072227,
+          22.502035
+        ]
+      },
+      "properties": {
+        "date": "2025-11-10",
+        "temperature": 19.23,
+        "pH": 8.14,
+        "dissolvedOxygen": 7.69,
+        "EC": 1.24,
+        "turbidity": 0.41,
+        "orp": -1.88
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.072227,
+          22.502035
+        ]
+      },
+      "properties": {
+        "date": "2025-11-10",
+        "temperature": 18.39,
+        "pH": 7.78,
+        "dissolvedOxygen": 9.9,
+        "EC": 1.12,
+        "turbidity": 0.38,
+        "orp": -1.81
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.072227,
+          22.502035
+        ]
+      },
+      "properties": {
+        "date": "2025-11-10",
+        "temperature": 16.54,
+        "pH": 8.39,
+        "dissolvedOxygen": 6.65,
+        "EC": 1.18,
+        "turbidity": 0.35,
+        "orp": -1.86
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.072227,
+          22.502035
+        ]
+      },
+      "properties": {
+        "date": "2025-11-10",
+        "temperature": 29.29,
+        "pH": 8.05,
+        "dissolvedOxygen": 8.33,
+        "EC": 1.23,
+        "turbidity": 0.44,
+        "orp": -1.89
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.072227,
+          22.502035
+        ]
+      },
+      "properties": {
+        "date": "2025-12-22",
+        "temperature": 18.36,
+        "pH": 7.36,
+        "dissolvedOxygen": 9.19,
+        "EC": 1.18,
+        "turbidity": 0.4,
+        "orp": -1.89
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.072227,
+          22.502035
+        ]
+      },
+      "properties": {
+        "date": "2025-12-22",
+        "temperature": 18.84,
+        "pH": 7.77,
+        "dissolvedOxygen": 8.51,
+        "EC": 1.17,
+        "turbidity": 0.4,
+        "orp": -1.89
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.072227,
+          22.502035
+        ]
+      },
+      "properties": {
+        "date": "2025-12-22",
+        "temperature": 26.66,
+        "pH": 7.54,
+        "dissolvedOxygen": 8.22,
+        "EC": 1.1,
+        "turbidity": 0.44,
+        "orp": -1.81
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.072227,
+          22.502035
+        ]
+      },
+      "properties": {
+        "date": "2025-12-22",
+        "temperature": 27.84,
+        "pH": 8.32,
+        "dissolvedOxygen": 9.45,
+        "EC": 1.11,
+        "turbidity": 0.37,
+        "orp": -1.86
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.072227,
+          22.502035
+        ]
+      },
+      "properties": {
+        "date": "2025-12-22",
+        "temperature": 29.0,
+        "pH": 7.23,
+        "dissolvedOxygen": 9.36,
+        "EC": 1.19,
+        "turbidity": 0.35,
+        "orp": -1.86
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.072227,
+          22.502035
+        ]
+      },
+      "properties": {
+        "date": "2025-12-22",
+        "temperature": 24.6,
+        "pH": 8.0,
+        "dissolvedOxygen": 6.45,
+        "EC": 1.25,
+        "turbidity": 0.43,
+        "orp": -1.82
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.072227,
+          22.502035
+        ]
+      },
+      "properties": {
+        "date": "2025-12-22",
+        "temperature": 25.05,
+        "pH": 8.29,
+        "dissolvedOxygen": 9.14,
+        "EC": 1.16,
+        "turbidity": 0.37,
+        "orp": -1.85
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.072227,
+          22.502035
+        ]
+      },
+      "properties": {
+        "date": "2025-12-22",
+        "temperature": 24.47,
+        "pH": 8.25,
+        "dissolvedOxygen": 9.61,
+        "EC": 1.23,
+        "turbidity": 0.4,
+        "orp": -1.84
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.072227,
+          22.502035
+        ]
+      },
+      "properties": {
+        "date": "2025-12-22",
+        "temperature": 23.32,
+        "pH": 7.5,
+        "dissolvedOxygen": 5.08,
+        "EC": 1.19,
+        "turbidity": 0.39,
+        "orp": -1.87
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.072227,
+          22.502035
+        ]
+      },
+      "properties": {
+        "date": "2025-12-22",
+        "temperature": 28.43,
+        "pH": 7.39,
+        "dissolvedOxygen": 4.29,
+        "EC": 1.13,
+        "turbidity": 0.44,
+        "orp": -1.84
+      }
+    }
+  ]
+}
