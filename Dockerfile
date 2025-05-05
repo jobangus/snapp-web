@@ -11,10 +11,10 @@ COPY server/requirements.txt .
 RUN pip install --no-cache-dir -r requirements.txt
 
 # Copy the rest of the app code (including the server/ folder)
-COPY . .
-
+COPY server /app/server
 # Expose the port your Flas app runs on
 EXPOSE 5000
-
+# Set the Flask app location
+ENV FLASK_APP=server/app.py
 # Run the app (adjust the command if needed)
 CMD ["flask", "run", "--host=0.0.0.0", "--port=5000"]
