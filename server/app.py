@@ -8,14 +8,14 @@ CORS(app)  # Enable Cross-Origin Requests
 @app.route('/aggregated-data', methods=['GET'])
 def get_aggregated_data():
     # Call your data processing script here
-    processed_data = aggregator.process_data(r".\data\data.json")
+    processed_data = aggregator.process_data()
     print(jsonify(processed_data))
     return jsonify(processed_data)
 
 @app.route('/boxplot-data', methods=['GET'])
 def get_boxplot_data():
     
-    geojson = aggregator.load_geojson(r".\data\data.json") 
+    geojson = aggregator.load_geojson() 
     df = aggregator.geojson_to_df(geojson)
     return jsonify(aggregator.data_for_boxplot(df))
 

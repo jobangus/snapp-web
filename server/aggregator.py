@@ -1,11 +1,33 @@
 import json
 import pandas as pd
 from collections import defaultdict
-
-def load_geojson(filepath):
+from supabase import create_client
+url = "https://jyjxvjqpadeumirhezog.supabase.co"
+key = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6Imp5anh2anFwYWRldW1pcmhlem9nIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NDY0NTQ5ODEsImV4cCI6MjA2MjAzMDk4MX0.1Ij8gkghm9yEs7m2WMqon7Ohu6wZ_QUuhYXlbSiosLM"
+supabase = create_client(url, key)
+def load_geojson():
     """Load GeoJSON data from a file."""
-    with open(filepath) as f:
-        return json.load(f)
+    """Fetch data from Supabase and return GeoJSON-like structure"""
+    response = supabase.table("ocean_data").select("*").execute()
+
+    features = []
+    for record in response.data:
+        # Convert database record to GeoJSON-like feature
+        feature = {
+            "type": "Feature",
+            "geometry":record['geom'],
+            "properties": {
+                "date": record['date'],
+                "temperature": record['temperature'],
+                "pH": record['ph'],
+                "dissolvedOxygen": record['dissolvedoxygen'],
+                "EC": record['ec'],
+                "turbidity": record['turbidity'],
+                "orp": record['orp']
+            }
+        }
+        features.append(feature)
+    return {"type": "FeatureCollection", "features": features}
 
 def geojson_to_df(data):
     """Convert GeoJSON to DataFrame."""
@@ -85,9 +107,9 @@ def data_for_boxplot(df):
     }
     return aggregate_and_convert(df, group_by=group_by, metrics=metrics, agg_specs=agg_specs)
 
-def process_data(filepath):
+def process_data():
     """Process GeoJSON data for time-series statistics."""
-    geojson = load_geojson(filepath)
+    geojson = load_geojson()
     df = geojson_to_df(geojson)
     group_by = ['longitude', 'latitude', 'date']
     metrics = [col for col in df.columns if col != 'date' and col != 'longitude' and col != 'latitude' and pd.api.types.is_numeric_dtype(df[col])]
