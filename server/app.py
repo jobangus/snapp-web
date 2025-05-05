@@ -18,5 +18,6 @@ def get_boxplot_data():
     geojson = aggregator.load_geojson(r".\data\data.json") 
     df = aggregator.geojson_to_df(geojson)
     return jsonify(aggregator.data_for_boxplot(df))
+
 if __name__ == '__main__':
-    app.run(port=5000)
+    app.run(host="0.0.0.0", port=5000)
