@@ -3,7 +3,7 @@ from flask_cors import CORS
 import aggregator  # Your Python data processing script
 
 app = Flask(__name__)
-CORS(app)  # Enable Cross-Origin Requests
+CORS(app, origins=["https://master.dy35ahqckehuc.amplifyapp.com"])  # Enable Cross-Origin Requests
 
 @app.route('/aggregated-data', methods=['GET'])
 def get_aggregated_data():
