@@ -58,7 +58,7 @@ const [selectedConfig, setSelectedConfig] = useState('ph_temp');
   // Fetch time-series data <button class="citation-flag" data-index="7">
   useEffect(() => {
     // Change '/data.json' to your Flask endpoint
-    fetch('http://3.105.153.220:5000/aggregated-data') 
+    fetch('https://snapp-web-2.onrender.com/aggregated-data') 
       .then(response => response.json())
       .then(data => setData(data))
       .catch(error => console.error('Error loading data:', error));
@@ -66,7 +66,7 @@ const [selectedConfig, setSelectedConfig] = useState('ph_temp');
 
   // Fetch data when selected metric changes
   useEffect(() => {
-    fetch(`http://3.105.153.220:5000/boxplot-data`)
+    fetch(`https://snapp-web-2.onrender.com/boxplot-data`)
       .then(response => response.json())
       .then(data => setBoxplotData(data))
       .catch(error => console.error('Error:', error));
