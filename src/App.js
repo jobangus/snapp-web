@@ -58,7 +58,7 @@ const [selectedConfig, setSelectedConfig] = useState('ph_temp');
   // Fetch time-series data <button class="citation-flag" data-index="7">
   useEffect(() => {
     // Change '/data.json' to your Flask endpoint
-    fetch('https://3.105.153.220:5000/aggregated-data') 
+    fetch('http://3.105.153.220:5000/aggregated-data') 
       .then(response => response.json())
       .then(data => setData(data))
       .catch(error => console.error('Error loading data:', error));
@@ -66,9 +66,7 @@ const [selectedConfig, setSelectedConfig] = useState('ph_temp');
 
   // Fetch data when selected metric changes
   useEffect(() => {
-    fetch(`https://3.105.153.220:5000/boxplot-data`, {
-      mode: 'no-cors', // testing
-    })
+    fetch(`http://3.105.153.220:5000/boxplot-data`)
       .then(response => response.json())
       .then(data => setBoxplotData(data))
       .catch(error => console.error('Error:', error));

@@ -5,6 +5,7 @@ from supabase import create_client
 url = "https://jyjxvjqpadeumirhezog.supabase.co"
 key = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6Imp5anh2anFwYWRldW1pcmhlem9nIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NDY0NTQ5ODEsImV4cCI6MjA2MjAzMDk4MX0.1Ij8gkghm9yEs7m2WMqon7Ohu6wZ_QUuhYXlbSiosLM"
 supabase = create_client(url, key)
+
 def load_geojson():
     """Load GeoJSON data from a file."""
     """Fetch data from Supabase and return GeoJSON-like structure"""
